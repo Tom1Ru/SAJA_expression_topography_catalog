@@ -2,7 +2,7 @@
 
 A4 PDF catalog (0.5 page per gene) with 8×8 expression topography, genotype 5×5 panels, LM parameters, and biomarker metrics.
 
-[expression_topography_catalog_PR1_VSP1.pdf](output/figures/expression_topography_catalog_PR1_VSP1.pdf)
+![Example_PR1.png](output/figures/Example_PR1.png)
 
 ## Layout (per gene)
 

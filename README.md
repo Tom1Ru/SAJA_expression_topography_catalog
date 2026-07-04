@@ -76,7 +76,7 @@ Rscript run_catalog.R my_genes.txt output/figures/my_catalog.pdf
 |------|---------|
 | `gene_annotation.csv` | Araport11 annotation |
 | `gene_lm_stats.csv` | 8×8 LM classification |
-| `gene_cluster_assignments.csv` | DEGn3 55 micro clusters |
+| `gene_cluster_assignments.csv` | Gene clusters info |
 | `gene_metrics.csv` | SA/JA r, select freq, SA/JA peak (mM) |
 | `mean64_log2rpm.rds` | Expressed genes × 64 conditions |
 | `genotype_5x5_means.csv` | 5×5 means per genotype (6 hr) |

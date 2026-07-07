@@ -1,0 +1,31 @@
+警告メッセージ:
+パッケージ ‘ggplot2’ はバージョン 4.5.2 の R の下で造られました 
+DEGn3 genes: 4939
+Building catalog: 4939 genes, 2470 pages -> /Users/tomysm4/SAJA64project/expression_topography_catalog/output/figures/expression_topography_catalog_DEGn3_4939genes.pdf
+  page 100 / 2470
+  page 200 / 2470
+  page 300 / 2470
+  page 400 / 2470
+  page 500 / 2470
+  page 600 / 2470
+  page 700 / 2470
+  page 800 / 2470
+  page 900 / 2470
+  page 1000 / 2470
+  page 1100 / 2470
+  page 1200 / 2470
+  page 1300 / 2470
+  page 1400 / 2470
+  page 1500 / 2470
+  page 1600 / 2470
+  page 1700 / 2470
+  page 1800 / 2470
+  page 1900 / 2470
+  page 2000 / 2470
+  page 2100 / 2470
+  page 2200 / 2470
+  page 2300 / 2470
+  page 2400 / 2470
+12 件の警告がありました (警告を見るには warnings() を使って下さい)
+Done in 52.2 min
+Wrote: /Users/tomysm4/SAJA64project/expression_topography_catalog/output/figures/expression_topography_catalog_DEGn3_4939genes.pdf

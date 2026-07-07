@@ -99,3 +99,7 @@ R/
 data/                     # pre-built inputs (required)
 output/figures/           # generated PDFs (gitignored except PR1_VSP1 sample)
 ```
+
+## Citation
+you can cite these data as:
+Atsuki Tomita, Taro Maeda, Natsumi Mori-Moriyama, Yasuyuki Nomura, Yuko Kurita, Makoto Kashima, Shigeyuki Betsuyaku, Yasuhiro Sato, Atsushi J. Nagano. (2025). Transcriptomic biomarkers reveal jasmonic and salicylic acid state under field herbivory. bioRxiv. 2025.05.29.656841. doi: https://doi.org/10.1101/2025.05.29.656841.
